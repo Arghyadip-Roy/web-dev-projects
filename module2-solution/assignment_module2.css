@@ -5,7 +5,7 @@
 body{
 	margin: 0;
 	font-family: sans-serif;
-	background-color:#0a5398;
+	background-color:#0df1f7;
 }
 .container{
 	max-width: 1140 px ;
@@ -42,7 +42,7 @@ header{
 	width: 100%;
 	background-color:#dddddd;
 	text-align: center;
-	padding: 100px 15px;
+	padding: 80px 15px;
 	margin-bottom: 20px;
 
 }
@@ -63,7 +63,7 @@ header{
 .sec .content .category{
 	width: 33.3333%;
 	float: left;
-	padding: 10px 10px;
+	padding: 10px 15px;
 }
 .sec .content .category .box{
 	background-color:#15d6c0;
